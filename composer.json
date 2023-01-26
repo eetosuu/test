@@ -1,0 +1,12 @@
+{
+    "name": "nikit/testtask",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "ext-pdo": "*",
+      "ext-mbstring": "*"
+    }
+}
